@@ -1,5 +1,5 @@
 const constants = {
-    'baseUrl': 'https://instaclone-g9h5.onrender.com/'
+    'baseUrl': 'https://school-demo-513p.onrender.com/'
 };
 
 export default constants
