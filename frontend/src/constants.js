@@ -1,5 +1,5 @@
 const constants = {
-    'baseUrl': 'https://school-demo-mocha.vercel.app/'
+    'baseUrl': 'https://school-demo-513p.onrender.com/'
 };
 
 export default constants
